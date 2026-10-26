@@ -12,3 +12,5 @@
 3. Diseño
 4. Desarrollo
 5. Pruebas
+
+<img width="900" height="900" alt="unnamed" src="https://github.com/user-attachments/assets/32ca8389-1d88-4074-8268-c9e79513d34a" />
